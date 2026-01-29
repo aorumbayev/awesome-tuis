@@ -182,6 +182,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
+- [kagan](https://github.com/aorumbayev/kagan) AI-powered Kanban TUI for autonomous development workflows
 
 ---
 
